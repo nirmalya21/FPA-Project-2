@@ -1,5 +1,8 @@
 # FPA-Project-2
 
+An advanced Streamlit dashboard for financial planning and analysis (FP&A), project controlling, and Price-Volume-Mix (PVM) forecasting.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fpa-project-2-nirmalya.streamlit.app/)
 
 ##  Key Features
 
